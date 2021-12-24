@@ -1,4 +1,4 @@
-question = 700000 * 7000
+answer = 70000 * 7000
 
-print(question)
+print(answer)
 
