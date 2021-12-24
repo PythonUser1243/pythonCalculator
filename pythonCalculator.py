@@ -1,2 +1,2 @@
-
-print(45 * 89)
+answer = 735 * 34 #Enter question here.
+print(answer)
